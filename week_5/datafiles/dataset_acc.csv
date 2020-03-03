@@ -1,108 +1,108 @@
-,OBJECTID,Postcode,Toilet opening hours,Female (no. of),Accessible (no. of)
-0,52,BS4 5AY,"Mon 8am then 24 hours until 10pm on Sats, Sun 10am - 4pm",Yes,1
-1,29,BS9 1ZZ,Monday - Saunday  7:30-18:00,3,Yes
-2,54,BS11 9JJ,"Monday-Thursday 08:00 - 18:30, Friday 08:00-17:00",0,1
-3,2081,BS11 0QE,Monday- Friday 08:00 - 18:30,0,1
-4,57,BS5 0AX,Monday - Friday 9:00 - 16:00,2,2
-5,115,BS10 5PY,"Mon-Fri 8am-10pm, Sat-Sun 9am - 5pm",4,1
-6,513,BS1 4QA,"Monday 09:00-16:00, Tuesday-Thursday 09:00-22:00, Friday 09:00-23:00, Saturday 10:00-23:00, Sunday 10:00-18:00",,2
-7,546,BS1 5LL,"Monday-Friday 11:00-17:00, Saturday-Sunday 11:00-17:00",3,1
-8,148,BS1 5TX,"Monday-Friday 9:00-23:00, Saturday-Sunday 10:00-23:00",5,1
-9,4161,BS15 1AW,,,0
-10,4497,BS3 2EL,Monday-Friday 08:00-16:00 closed to public on Match days,,1
-11,3,BS6 7YL,"Monday-Sunday 08.00-17.15 (winter), 08:00-21.15 (summer), excluding Christmas Day",2,1
-12,7,BS41 9JN,"Monday-Sunday 07.00-17:00 (winter), 07:00-19:00 (summer), excluding Christmas Day",5,1
-13,41,BS16 2JH,"Monday - Sunday 08.00 - 17.15 (winter), 08:00 - 21.15 (summer), excluding Christmas Day",0,1
-14,50,BS4 2QU,"Monday-Thursday 08:00-18:30, Friday 08:00-19:30, Saturday 08:00-18:00, Sunday 10:00-16:00",5,1
-15,578,BS13 7AS,"Monday-Friday 09:00-16:00, weekends and bank holidays 11:00-16:00",1,1
-16,1281,BS5 6HL,Monday- Friday 09:00-16:30,,0
-17,58,BS5 9HL,Sunday-Thursday 08:00-12:00. Friday-Saturday 08:00-01:00.,6,1
-18,73,BS14 0ST,Monday 08:00-23:00; Tuesday-Friday 7.30am-11pm; Saturday 7am - 10pm; Sunday 10am - 4pm,4,1
-19,147,BS1 5DB,"Monday-Friday 10:00-17:00, (during term time), 10:00-18:00, weekends, bank holidays and Bristol school holidays",0,1
-20,157,BS3 1QG,"Monday-Thursday 8:30-20:15, Friday 8:30-18:00.",3,1
-21,514,BS8 1RL,Tues- Sun 10:00- 17:00 open on Mondays during Bristol school holidays from 10:00-17:00,1,1
-22,612,BS4 1DQ,"Monday-Friday 7:00-22.00, Saturday-Sunday 9:00-16:00",3,1
-23,3505,BS1 3BX,"Monday-Saturday 09:00-20:15, Sunday 09:00-17:30",19,4
-24,2,BS3 4LL,"Winter Monday - Sunday 07:30 - 17.15. Summer 07:30 - 20:30, excluding Christmas Day",2,1
-25,53,BS4 5PF,24 hours,2,1
-26,74,BS14 9HX,Monday to Sunday 11:00 - 23:00,5,1
-27,3473,BS13 7RW,"Monday-Thursday 10:00-21:00, Friday and Saturday 10:00-18:00",,1
-28,3476,BS3 1TF,"Monday-Thursday and Sunday 10:00-23:00, Friday-Saturday 10:00-12:00",4,1
-29,76,BS4 5ZZ,"Monday-Friday 6:30am to 9:30pm, Saturday 7:30am to 8pm, Sunday - Closed",2,1
-30,128,BS1 5TL,Monday-Friday 08:00-19:00,7,2
-31,138,BS5 0FJ,"1 - 7 Monday, 11 - 5 Tuesday, 1 - 7 Wednesday, 11 - 5 Friday, 10 - 5 Saturday",,Yes
-32,155,BS1 6XN,"Monday-Thursday 8:30am-5pm, Friday 8:30am-4:30pm, Saturday 10am-4pm first two Saturdays of the month.",3,3
-33,8,BS8 3PX,"7.00 until 17.00 - 19.00, excluding Christmas Day",1,1
-34,5169,BS4 2BS,Monday-Sunday 9am to 11pm,,1
-35,5170,BS7 8TP,"Monday-Friday 8am-11pm, Saturday and Sunday 9am-11pm",,0
-36,5171,BS3 1JJ,Monday-Sunday 9am to 11pm,,1
-37,127,BS1 1JQ,"Monday- Friday 09:30-17:00, Saturday 09:30-17:30",2,1
-38,498,BS1 6AG,"Monday-Tuesday 9am-4:45pm, Wednesday 10am- 4:45pm  Thursday-Friday 9am-4:45pm",,1
-39,3429,BS3 1BS,Monday 07:30-20:00. Tuesday 07:30-19:00. Wedensday-Thursday 07:30-20:00. Friday 07:30-18:00. Saturday 08:00-15:45.,1,1
-40,6,BS10 7QS,"Thu- Sun 11:00- 16:00, open Mondays during Bristol school holidays 10:00-17:00. Full details available on www.bristolmuseums.org.uk",1,0
-41,146,BS1 4RN,Tuesday-Sunday 10am-5pm also open Mondays during Bristol school holidays 10:00-17:00,3,2
-42,63,BS9 1JN,"Monday 8:00-19:00, Tuesday 8:00-20:00, Wednesday 07:30-18:30, closed Thursday, Friday 08:00-18:30",0,1
-43,3073,BS7 0XW,"Monday-Friday 06:30-22:30, Saturday-Sunday 08:00-20:00",2,1
-44,5138,BS13 8LF,Tuesday-Friday 9:00-15:00,3,1
-45,141,BS7 8BN,"1pm-7pm Monday, 11am-5pm Wednesday, Thursday, Friday and Saturday",,1
-46,159,BS3 4EA,Monday-Sunday 09:00-17:00. Closed December 25-January 2,1,2
-47,545,BS1 6UX,"Monday-Friday 08:30-17:00, 10:00-17:00 Saturday-Sunday",,1
-48,4481,BS5 7PD,Monday-Friday 08:00-18:30,1,1
-49,3457,BS10 7DR,Monday - Sunday 11:00 - 23:00,2,0
-50,5,BS10 7QT,"Winter Monday - Sunday 08.30 -15:30. Summer Monday - Friday  8:30 - 16.00 hours, excluding Christmas Day",5,1
-51,44,BS4 2RA,"7.00 until 16.30 winter - 20.00 summer hours, excluding Christmas Day",2,1
-52,1,BS16 1DL,"Monday - Sunday 08.00 - 17.15 (winter), 08:00 - 21.15 (summer), excluding Christmas Day",0,1
-53,4,BS1 5RR,"Monday - Sunday 08.00 - 15.30, excluding Christmas Day",1,1
-54,2418,BS5 6SA,"Monday 08:00-19:30, Tuesday-Friday 08:00-18:30",2,1
-55,81,BS4 3BD,10am-10pm Sun-Thu; Fri 10am-12 midnight; Sat 9am-12 midnight,,0
-56,120,BS9 3DH,Mon- Sun 9am-11pm,2,1
-57,137,BS1 5TL,Monday -Thursday 10:00-19:00 CLOSED Wednesday. Friday- Saturday 10:00- 16:45. Sunday 13:00- 16:45.,3,1
-58,529,BS1 6TY,Monday-Sunday 10:00-16:30,,1
-59,1617,BS9 2DY,Monday-Friday 09:00-17:00 Saturday 10:00-14:00,0,1
-60,1618,BS8 2QY,"Monday-Friday 10:00-22:00, Saturdays 09:00-22:00, Sunday 09:00-17:00",1,1
-61,2065,BS10 6SP,"Monday-Friday 08:00-18:30, Saturday 08:00-13:00",0,1
-62,59,BS6 7XW,"Monday-Saturday 08:00-22:00, Sunday 10:00-16:00",2,1
-63,1633,BS8 2SB,"Monday-Wedensday 11:00-23:00, Thurs- Saturday 11:00-00:00, Sunday 12:00-23:00",1,0
-64,5489,BS7 9FB,Monday - Friday 9am - 3pm,1,YES
-65,3521,BS11 9EN,Monday - Thursday 09.30-16:30,2,1
-66,3841,BS4 2RA,07:00- 16:00 for event or when other toilets in the park are broken,0,1
-67,4817,BS5 9QY,Monday-Friday 09:00-19:00,4,1
-68,48,BS3 2HB,Monday - Saturday 05:30 - 22:45,2,1
-69,3427,BS10 7NG,"Monday-Saturday 07:15-22:00, Sunday 07:30-20:00",2,1
-70,51,BS4 3QU,7am - 10pm,4,0
-71,43,BS9 3PQ,"Summer opening Daily 10:00-17:30, winter opening Daily 10:00-15:30",0,1
-72,31,BS9 1FG,"7 days per week, 7:45 - 20:15",9,Yes
-73,55,BS5 6XX,"Monday-Friday 08:00-23:00, Saturday-Sunday 09:00-23:00",,1
-74,65,BS9 4HN,"Monday-Saturday 7.30am-9pm, Sunday 10am-4pm",0,1
-75,90,BS10 7AD,Monday - Sunday  08:00 - 22:00,2,1
-76,145,BS5 8AL,"3-7 Monday, 10 - 2 Tuesday, 1-5 Wednesday, 10-2 Thursday, 1-5 Friday, 11-5 Saturday",,Yes
-77,577,BS1 5UH,"Monday 8:00-00:00, Tuesday 8:00-1:00, Wednesday-Friday 8:00-2:00, Saturday 8:00-3:00, Sunday 8:00-00:00",9,1
-78,61,BS8 2NN,Monday-Saturday 08:00-22:00 Sunday 11:00-17:00,3,1
-79,2737,BS11 9QE,Monday-Saturday 06:00-21:40 Sunday 09:00-18:40,,1
-80,6481,BS3 4AQ,"Monday, Wednesday 10am - 7pm, Thursday, Friday, Saturday 10am - 5pm, Closed Tuesday and Sunday.",0,1
-81,610,BS13 7TJ,"Monday-Saturday 8:30-20:00, Sunday 10:00-17:00",3,1
-82,11,BS14 0HR,Only open when Play Park is open.,,1
-83,46,BS6 5AZ,"Monday - Sunday 7:30-21:00, excluding Christmas Day",3,1
-84,15,BS8 1PB,,No,0
-85,32,BS8 3ZZ,7 days a week Winter 08:00-20:30,2,Yes
-86,2754,BS1 5RR,Monday-Sunday 10:00 to 18:00,,1
-87,158,BS3 1BN,Sunday- Thursday 08:00- 00:00 Friday and Saturday 08:00 - 01:00,6,1
-88,109,BS10 6AS,"Mon-Wed 9am -4pm, Thurs- Sat 9am-10:30pm  Sun 8-2pm",0,0
-89,962,BS8 2HY,"Sunday-Thursday 12:00-23:00, Friday-Saturday 12:00-0:00, Sunday 12:00-23:00",3,0
-90,151,BS1 3BX,"Monday-Saturday 09:00-20:15, Sunday 09:00-17:30",24,5
-91,596,BS4 1NL,Monday -Friday 9:30-17:00,2,1
-92,5474,BS2 0SP,"Monday-Friday 11am to 11pm, Saturday 10am to 11pm, Sunday 10am to 11pm",7,1
-93,9,BS5 6HL,"Monday-Friday 09:00-16:00, weekends and bank holidays 11:00-16:00",,0
-94,47,BS5 8SZ,During match play only,,0
-95,625,BS9 3PQ,"Monday-Friday 09:00-16:00, weekends and bank holidays 11:00-16:00",0,1
-96,2097,BS1 2AG,Monday-Saturday 09:00-15:00 Sunday closed,,1
-97,84,BS16 3UA,Sunday - Thursday 08:00 - 00:00. Friday - Saturday 08:00- 01:00.,6,1
-98,116,BS3 3NS,"Monday-Saturday 07:00-22:00, Sunday 10:00-16:00.",3,1
-99,118,BS16 3BS,Monday - Sunday  9am -11pm,1,1
-100,142,BS16 3HL,"Monday-Tuesday 10am-5pm, Thursday 11am-7pm, Friday-Saturday 10am-5pm, Sunday closed.",,1
-101,143,BS10 7DR,"11-5 Monday, 11-7 Wednesday, 11 - 5 Friday, 11 - 5 Saturday",,Yes
-102,641,BS11 0RX,Monday to Friday 09:00-16:00 with ad-hoc additional hours,,1
-103,1745,BS9 2HL,Monday-Friday 08:00-18:30,0,1
-104,2417,BS4 1WH,08:30-18:30 Monday-Friday,2,1
-105,70,BS14 0BE,7am - 10pm,3,1
-106,5153,BS11 0DX,Monday - Saturday 10:00 - 23:00  Sunday 12:00 - 22:00,1,0
+OBJECTID,Postcode,Toilet opening hours,Female (no. of),Accessible (no. of)
+52,BS4 5AY,"Mon 8am then 24 hours until 10pm on Sats, Sun 10am - 4pm",Yes,1
+29,BS9 1ZZ,Monday - Saunday  7:30-18:00,3,Yes
+54,BS11 9JJ,"Monday-Thursday 08:00 - 18:30, Friday 08:00-17:00",0,1
+2081,BS11 0QE,Monday- Friday 08:00 - 18:30,0,1
+57,BS5 0AX,Monday - Friday 9:00 - 16:00,2,2
+115,BS10 5PY,"Mon-Fri 8am-10pm, Sat-Sun 9am - 5pm",4,1
+513,BS1 4QA,"Monday 09:00-16:00, Tuesday-Thursday 09:00-22:00, Friday 09:00-23:00, Saturday 10:00-23:00, Sunday 10:00-18:00",,2
+546,BS1 5LL,"Monday-Friday 11:00-17:00, Saturday-Sunday 11:00-17:00",3,1
+148,BS1 5TX,"Monday-Friday 9:00-23:00, Saturday-Sunday 10:00-23:00",5,1
+4161,BS15 1AW,,,0
+4497,BS3 2EL,Monday-Friday 08:00-16:00 closed to public on Match days,,1
+3,BS6 7YL,"Monday-Sunday 08.00-17.15 (winter), 08:00-21.15 (summer), excluding Christmas Day",2,1
+7,BS41 9JN,"Monday-Sunday 07.00-17:00 (winter), 07:00-19:00 (summer), excluding Christmas Day",5,1
+41,BS16 2JH,"Monday - Sunday 08.00 - 17.15 (winter), 08:00 - 21.15 (summer), excluding Christmas Day",0,1
+50,BS4 2QU,"Monday-Thursday 08:00-18:30, Friday 08:00-19:30, Saturday 08:00-18:00, Sunday 10:00-16:00",5,1
+578,BS13 7AS,"Monday-Friday 09:00-16:00, weekends and bank holidays 11:00-16:00",1,1
+1281,BS5 6HL,Monday- Friday 09:00-16:30,,0
+58,BS5 9HL,Sunday-Thursday 08:00-12:00. Friday-Saturday 08:00-01:00.,6,1
+73,BS14 0ST,Monday 08:00-23:00; Tuesday-Friday 7.30am-11pm; Saturday 7am - 10pm; Sunday 10am - 4pm,4,1
+147,BS1 5DB,"Monday-Friday 10:00-17:00, (during term time), 10:00-18:00, weekends, bank holidays and Bristol school holidays",0,1
+157,BS3 1QG,"Monday-Thursday 8:30-20:15, Friday 8:30-18:00.",3,1
+514,BS8 1RL,Tues- Sun 10:00- 17:00 open on Mondays during Bristol school holidays from 10:00-17:00,1,1
+612,BS4 1DQ,"Monday-Friday 7:00-22.00, Saturday-Sunday 9:00-16:00",3,1
+3505,BS1 3BX,"Monday-Saturday 09:00-20:15, Sunday 09:00-17:30",19,4
+2,BS3 4LL,"Winter Monday - Sunday 07:30 - 17.15. Summer 07:30 - 20:30, excluding Christmas Day",2,1
+53,BS4 5PF,24 hours,2,1
+74,BS14 9HX,Monday to Sunday 11:00 - 23:00,5,1
+3473,BS13 7RW,"Monday-Thursday 10:00-21:00, Friday and Saturday 10:00-18:00",,1
+3476,BS3 1TF,"Monday-Thursday and Sunday 10:00-23:00, Friday-Saturday 10:00-12:00",4,1
+76,BS4 5ZZ,"Monday-Friday 6:30am to 9:30pm, Saturday 7:30am to 8pm, Sunday - Closed",2,1
+128,BS1 5TL,Monday-Friday 08:00-19:00,7,2
+138,BS5 0FJ,"1 - 7 Monday, 11 - 5 Tuesday, 1 - 7 Wednesday, 11 - 5 Friday, 10 - 5 Saturday",,Yes
+155,BS1 6XN,"Monday-Thursday 8:30am-5pm, Friday 8:30am-4:30pm, Saturday 10am-4pm first two Saturdays of the month.",3,3
+8,BS8 3PX,"7.00 until 17.00 - 19.00, excluding Christmas Day",1,1
+5169,BS4 2BS,Monday-Sunday 9am to 11pm,,1
+5170,BS7 8TP,"Monday-Friday 8am-11pm, Saturday and Sunday 9am-11pm",,0
+5171,BS3 1JJ,Monday-Sunday 9am to 11pm,,1
+127,BS1 1JQ,"Monday- Friday 09:30-17:00, Saturday 09:30-17:30",2,1
+498,BS1 6AG,"Monday-Tuesday 9am-4:45pm, Wednesday 10am- 4:45pm  Thursday-Friday 9am-4:45pm",,1
+3429,BS3 1BS,Monday 07:30-20:00. Tuesday 07:30-19:00. Wedensday-Thursday 07:30-20:00. Friday 07:30-18:00. Saturday 08:00-15:45.,1,1
+6,BS10 7QS,"Thu- Sun 11:00- 16:00, open Mondays during Bristol school holidays 10:00-17:00. Full details available on www.bristolmuseums.org.uk",1,0
+146,BS1 4RN,Tuesday-Sunday 10am-5pm also open Mondays during Bristol school holidays 10:00-17:00,3,2
+63,BS9 1JN,"Monday 8:00-19:00, Tuesday 8:00-20:00, Wednesday 07:30-18:30, closed Thursday, Friday 08:00-18:30",0,1
+3073,BS7 0XW,"Monday-Friday 06:30-22:30, Saturday-Sunday 08:00-20:00",2,1
+5138,BS13 8LF,Tuesday-Friday 9:00-15:00,3,1
+141,BS7 8BN,"1pm-7pm Monday, 11am-5pm Wednesday, Thursday, Friday and Saturday",,1
+159,BS3 4EA,Monday-Sunday 09:00-17:00. Closed December 25-January 2,1,2
+545,BS1 6UX,"Monday-Friday 08:30-17:00, 10:00-17:00 Saturday-Sunday",,1
+4481,BS5 7PD,Monday-Friday 08:00-18:30,1,1
+3457,BS10 7DR,Monday - Sunday 11:00 - 23:00,2,0
+5,BS10 7QT,"Winter Monday - Sunday 08.30 -15:30. Summer Monday - Friday  8:30 - 16.00 hours, excluding Christmas Day",5,1
+44,BS4 2RA,"7.00 until 16.30 winter - 20.00 summer hours, excluding Christmas Day",2,1
+1,BS16 1DL,"Monday - Sunday 08.00 - 17.15 (winter), 08:00 - 21.15 (summer), excluding Christmas Day",0,1
+4,BS1 5RR,"Monday - Sunday 08.00 - 15.30, excluding Christmas Day",1,1
+2418,BS5 6SA,"Monday 08:00-19:30, Tuesday-Friday 08:00-18:30",2,1
+81,BS4 3BD,10am-10pm Sun-Thu; Fri 10am-12 midnight; Sat 9am-12 midnight,,0
+120,BS9 3DH,Mon- Sun 9am-11pm,2,1
+137,BS1 5TL,Monday -Thursday 10:00-19:00 CLOSED Wednesday. Friday- Saturday 10:00- 16:45. Sunday 13:00- 16:45.,3,1
+529,BS1 6TY,Monday-Sunday 10:00-16:30,,1
+1617,BS9 2DY,Monday-Friday 09:00-17:00 Saturday 10:00-14:00,0,1
+1618,BS8 2QY,"Monday-Friday 10:00-22:00, Saturdays 09:00-22:00, Sunday 09:00-17:00",1,1
+2065,BS10 6SP,"Monday-Friday 08:00-18:30, Saturday 08:00-13:00",0,1
+59,BS6 7XW,"Monday-Saturday 08:00-22:00, Sunday 10:00-16:00",2,1
+1633,BS8 2SB,"Monday-Wedensday 11:00-23:00, Thurs- Saturday 11:00-00:00, Sunday 12:00-23:00",1,0
+5489,BS7 9FB,Monday - Friday 9am - 3pm,1,YES
+3521,BS11 9EN,Monday - Thursday 09.30-16:30,2,1
+3841,BS4 2RA,07:00- 16:00 for event or when other toilets in the park are broken,0,1
+4817,BS5 9QY,Monday-Friday 09:00-19:00,4,1
+48,BS3 2HB,Monday - Saturday 05:30 - 22:45,2,1
+3427,BS10 7NG,"Monday-Saturday 07:15-22:00, Sunday 07:30-20:00",2,1
+51,BS4 3QU,7am - 10pm,4,0
+43,BS9 3PQ,"Summer opening Daily 10:00-17:30, winter opening Daily 10:00-15:30",0,1
+31,BS9 1FG,"7 days per week, 7:45 - 20:15",9,Yes
+55,BS5 6XX,"Monday-Friday 08:00-23:00, Saturday-Sunday 09:00-23:00",,1
+65,BS9 4HN,"Monday-Saturday 7.30am-9pm, Sunday 10am-4pm",0,1
+90,BS10 7AD,Monday - Sunday  08:00 - 22:00,2,1
+145,BS5 8AL,"3-7 Monday, 10 - 2 Tuesday, 1-5 Wednesday, 10-2 Thursday, 1-5 Friday, 11-5 Saturday",,Yes
+577,BS1 5UH,"Monday 8:00-00:00, Tuesday 8:00-1:00, Wednesday-Friday 8:00-2:00, Saturday 8:00-3:00, Sunday 8:00-00:00",9,1
+61,BS8 2NN,Monday-Saturday 08:00-22:00 Sunday 11:00-17:00,3,1
+2737,BS11 9QE,Monday-Saturday 06:00-21:40 Sunday 09:00-18:40,,1
+6481,BS3 4AQ,"Monday, Wednesday 10am - 7pm, Thursday, Friday, Saturday 10am - 5pm, Closed Tuesday and Sunday.",0,1
+610,BS13 7TJ,"Monday-Saturday 8:30-20:00, Sunday 10:00-17:00",3,1
+11,BS14 0HR,Only open when Play Park is open.,,1
+46,BS6 5AZ,"Monday - Sunday 7:30-21:00, excluding Christmas Day",3,1
+15,BS8 1PB,,No,0
+32,BS8 3ZZ,7 days a week Winter 08:00-20:30,2,Yes
+2754,BS1 5RR,Monday-Sunday 10:00 to 18:00,,1
+158,BS3 1BN,Sunday- Thursday 08:00- 00:00 Friday and Saturday 08:00 - 01:00,6,1
+109,BS10 6AS,"Mon-Wed 9am -4pm, Thurs- Sat 9am-10:30pm  Sun 8-2pm",0,0
+962,BS8 2HY,"Sunday-Thursday 12:00-23:00, Friday-Saturday 12:00-0:00, Sunday 12:00-23:00",3,0
+151,BS1 3BX,"Monday-Saturday 09:00-20:15, Sunday 09:00-17:30",24,5
+596,BS4 1NL,Monday -Friday 9:30-17:00,2,1
+5474,BS2 0SP,"Monday-Friday 11am to 11pm, Saturday 10am to 11pm, Sunday 10am to 11pm",7,1
+9,BS5 6HL,"Monday-Friday 09:00-16:00, weekends and bank holidays 11:00-16:00",,0
+47,BS5 8SZ,During match play only,,0
+625,BS9 3PQ,"Monday-Friday 09:00-16:00, weekends and bank holidays 11:00-16:00",0,1
+2097,BS1 2AG,Monday-Saturday 09:00-15:00 Sunday closed,,1
+84,BS16 3UA,Sunday - Thursday 08:00 - 00:00. Friday - Saturday 08:00- 01:00.,6,1
+116,BS3 3NS,"Monday-Saturday 07:00-22:00, Sunday 10:00-16:00.",3,1
+118,BS16 3BS,Monday - Sunday  9am -11pm,1,1
+142,BS16 3HL,"Monday-Tuesday 10am-5pm, Thursday 11am-7pm, Friday-Saturday 10am-5pm, Sunday closed.",,1
+143,BS10 7DR,"11-5 Monday, 11-7 Wednesday, 11 - 5 Friday, 11 - 5 Saturday",,Yes
+641,BS11 0RX,Monday to Friday 09:00-16:00 with ad-hoc additional hours,,1
+1745,BS9 2HL,Monday-Friday 08:00-18:30,0,1
+2417,BS4 1WH,08:30-18:30 Monday-Friday,2,1
+70,BS14 0BE,7am - 10pm,3,1
+5153,BS11 0DX,Monday - Saturday 10:00 - 23:00  Sunday 12:00 - 22:00,1,0
